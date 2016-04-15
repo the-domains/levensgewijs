@@ -1,6 +1,6 @@
 name: Levensgewijs
 favicon: null
-layout_spectrum: 0.659498336724937
+layout_spectrum: 0.55941
 typography_spectrum: 0.706312351860106
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.749310435494408
+  brandStrength: 0.5
   lightness: 0.038976303301751614
   saturation: 0.8523263942915946
   rhythmicContrast: 0.43839387549087405
